@@ -34,7 +34,7 @@ Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring,
 
 <h3>Related Work Experience</h3>
 <h5>Infosys, Baskin Ridge, NJ
-<h6>Associate (software Developer)							                            September 2020 – Present</h6>
+<h6>Associate (software Developer)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp				                            September 2020 – Present</h6>
 <p>
 •	Created applications using Java Spring boot and MySQL database to make custom Restful API calls to utilize on frontend of the application
 •	Designed front end of the application using Angular, React, TypeScript, HTML and CSS
