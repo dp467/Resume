@@ -25,8 +25,10 @@ Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring,
   </p>
 <h5>Wireless Communication Box for Cars (Senior Project)</h5>
 <p>
-•	Lead a team of 5 people to design and develop a wireless communication system for cars
-•	Employed different sensors and microprocessors to get distinct data such as vibration, temperature, GPS coordinates etc.
+•	Lead a team of 5 people to design and develop a wireless communication system for cars</p>
+<p>
+•	Employed different sensors and microprocessors to get distinct data such as vibration, temperature, GPS coordinates etc.</p>
+<p>
 •	Deployed an app using react native to display all the data and also implemented external modules to store data 
   </p>
 
