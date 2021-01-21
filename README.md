@@ -15,7 +15,7 @@ s
 Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring, Mongo Db, Angular, Type Script, JavaScript, React and Native Script</label>
 
 <h3>Projects</h3>
-<h5>Micro-Coded CPU </h5>
+<h5 style:font-weight:bold>Micro-Coded CPU </h5>
 <p>
 •	Designed and fabricated a Micro-Coded CPU based on distinct instruction sets using VHDL and Altera DE2 microprocessor with conjunction to using LabView to test and to obtain various measurements 
   </p>
