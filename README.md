@@ -10,7 +10,7 @@ s
 
 <h3>Education </h3>
 <h5>New Jersey Institute of Technology, Newark, NJ</h5>
-<h6>BS Computer Engineering 										May 2020</h6>
+<h6>BS Computer Engineering </h6>										                                   <h6>May 2020</h6>
 <label>Relevant Coursework:  Principles of OS, Computer Organization and Architecture, Database Systems Design
 Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring, Mongo Db, Angular, Type Script, JavaScript, React and Native Script</label>
 
