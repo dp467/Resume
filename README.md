@@ -19,34 +19,44 @@ Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring,
 <p>
 •	Designed and fabricated a Micro-Coded CPU based on distinct instruction sets using VHDL and Altera DE2 microprocessor with conjunction to using LabView to test and to obtain various measurements 
   </p>
-Entertainment Management System
+<h5> Entertainment Management System </h5>
+<p>
 •	Made a management system where a user can keep count of movies and tv show they have watched. Utilized JAVA spring to make RESTFUL API call and TypeScript, Angular and React to make UI.
-Wireless Communication Box for Cars (Senior Project)
+  </p>
+<h5>Wireless Communication Box for Cars (Senior Project)</h5>
+<p>
 •	Lead a team of 5 people to design and develop a wireless communication system for cars
 •	Employed different sensors and microprocessors to get distinct data such as vibration, temperature, GPS coordinates etc.
 •	Deployed an app using react native to display all the data and also implemented external modules to store data 
+  </p>
 
-Related Work Experience
-Infosys, Baskin Ridge, NJ
-Associate (software Developer)							                            September 2020 – Present
+<h3>Related Work Experience</h3>
+<h5>Infosys, Baskin Ridge, NJ
+<h6>Associate (software Developer)							                            September 2020 – Present</h6>
+<p>
 •	Created applications using Java Spring boot and MySQL database to make custom Restful API calls to utilize on frontend of the application
 •	Designed front end of the application using Angular, React, TypeScript, HTML and CSS
 •	Tested and debugged code when update was made to existing code base of each application
 •	Worked in team-based environment using various source control solutions such as GitHub and GitLab
 •	Applied software engineering concepts to diagnosed and resolved complex issues 
 •	Created and provided secure block storage for mobility in cloud computing and access, improving data storage by 10%
+  </p>
 
-Extendime Software Solutions Inc., Baskin Ridge, NJ
-Software Developer              							                                   August 2020 – Present
+<h5>Extendime Software Solutions Inc., Baskin Ridge, NJ</h5>
+<h6>Software Developer              							                                   August 2020 – Present</h6>
+<p>
 •	Designed, developed and implemented a mobile application using Native Script, Angular, HTML, CSS, Mongo DB, and google firebase
 •	Worked in teams of two to complete each coding milestone within given deadline
 •	Used CI/CD with the help of GitLab to unit test each feature before deploying it 
+  </p>
 
-Volunteer Work
-BAPS Swaminarayan Sanstha, Robbinsville, NJ
-Youth Activity Coordinator							                                      May 2012 - Present
+<h3>Volunteer Work</h3>
+<h5>BAPS Swaminarayan Sanstha, Robbinsville, NJ</h5>
+<h6>Youth Activity Coordinator							                                      May 2012 - Present</h6>
+<p>
 •	Lead and collaborated with team members to develop plans for new projects
 •	Utilized strong communication skills to consult different departments involved in projects
+  </p>
 
 
 
