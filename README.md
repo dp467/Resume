@@ -10,7 +10,7 @@ s
 
 <h3>Education </h3>
 <h5>New Jersey Institute of Technology, Newark, NJ</h5>
-<h6>BS Computer Engineering </h6>										                                   <h6>May 2020</h6>
+<h6>BS Computer Engineering&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp		May 2020</h6>
 <label>Relevant Coursework:  Principles of OS, Computer Organization and Architecture, Database Systems Design
 Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring, Mongo Db, Angular, Type Script, JavaScript, React and Native Script</label>
 
@@ -34,21 +34,34 @@ Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring,
 
 <h3>Related Work Experience</h3>
 <h5>Infosys, Baskin Ridge, NJ
-<h6>Associate (software Developer)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp				                            September 2020 – Present</h6>
+<h6>Associate (software Developer)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp				            September 2020 – Present</h6>
 <p>
-•	Created applications using Java Spring boot and MySQL database to make custom Restful API calls to utilize on frontend of the application
+•	Created applications using Java Spring boot and MySQL database to make custom Restful API calls to utilize on frontend of the application</p>
+  <p>
 •	Designed front end of the application using Angular, React, TypeScript, HTML and CSS
+  </p>
+  <p>
 •	Tested and debugged code when update was made to existing code base of each application
+  </p>
+  <p>
 •	Worked in team-based environment using various source control solutions such as GitHub and GitLab
+  </p>
+  <p>
 •	Applied software engineering concepts to diagnosed and resolved complex issues 
+  </p>
+  <p>
 •	Created and provided secure block storage for mobility in cloud computing and access, improving data storage by 10%
   </p>
 
 <h5>Extendime Software Solutions Inc., Baskin Ridge, NJ</h5>
-<h6>Software Developer              							                                   August 2020 – Present</h6>
+<h6>Software Developer&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp		              							                                   August 2020 – Present</h6>
 <p>
 •	Designed, developed and implemented a mobile application using Native Script, Angular, HTML, CSS, Mongo DB, and google firebase
+  </p>
+  <p>
 •	Worked in teams of two to complete each coding milestone within given deadline
+  </p>
+  <p>
 •	Used CI/CD with the help of GitLab to unit test each feature before deploying it 
   </p>
 
