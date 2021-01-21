@@ -1,8 +1,8 @@
 s
 
-<h1>Dhruv <h1>
-DHRUV PATEL
-dnp.patel19@gmail.com | 732-789-5802 | github.com/dp467
+
+<h1> DHRUV PATEL</h1>
+<h2>dnp.patel19@gmail.com | 732-789-5802 | github.com/dp467</h2>
 Objective
 To gain a full-time position in the field of software engineering that will enable me to use my strong problem-solving skills, ability to work with others, strong educational background, and leadership skills
 
