@@ -2,12 +2,14 @@ s
 
 
 <h1> DHRUV PATEL</h1>
-<h2>dnp.patel19@gmail.com | 732-789-5802 | github.com/dp467</h2>
-Objective
-To gain a full-time position in the field of software engineering that will enable me to use my strong problem-solving skills, ability to work with others, strong educational background, and leadership skills
+<h3>dnp.patel19@gmail.com | 732-789-5802 | github.com/dp467</h3>
 
-Education 
-New Jersey Institute of Technology, Newark, NJ
+<h3> Objective </h3>
+
+<labelTo gain a full-time position in the field of software engineering that will enable me to use my strong problem-solving skills, ability to work with others, strong educational background, and leadership skills</label>
+
+<h3>Education </h3>
+<h5>New Jersey Institute of Technology, Newark, NJ</h5>
 BS Computer Engineering 										May 2020
 Relevant Coursework:  Principles of OS, Computer Organization and Architecture, Database Systems Design
 Computer Skills:  C++, Python, HTML, CSS, VHDL, JAVA, Swift, MYSQL, GIT, Spring, Mongo Db, Angular, Type Script, JavaScript, React and Native Script
